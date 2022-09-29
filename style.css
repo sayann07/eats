@@ -183,3 +183,22 @@ ion-icon {
 .city-feature {
     margin-bottom: 5px;
 }
+
+.line {
+    margin-top: 200px;
+    font-size: 300%;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+    font-weight: 300;
+    margin-left: 300px;
+}
+
+.author {
+    font-size: 200%;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+    font-weight: 300;
+    margin-top: 50px;
+    text-align: right;
+    margin-right: 200px;
+}
